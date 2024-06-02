@@ -1,8 +1,10 @@
-# Analyse des vidéos YouTube du prix 100 jours 2024 du Moovjee
-**Objectif :** Le but étant de créer un Top 15 des vidéos qui ont reçu le plus de like.
-**ToDo list :**
-- [x] Scrapper les données des vidéos YouTube : Récupérer le titre, nb de vues et de like
-- [x] Enregistrer ces données dans un Dataframe à l'aide de la librairie Pandas
-- [x] Analyser les données
+# Analysis of YouTube videos from the Moovjee "*100 jours 2024 prize*"
 
-Vous trouverez mon notebook (***analyse_moovjee_2024.ipynb***) pour en savoir plus sur mon analyse.
+**Objective:** The aim is to create a Top 15 of videos that have received the most likes.
+
+**ToDo list :**
+- [x] Scrape data from YouTube videos: Recover title, number of views and likes
+- [x] Save data in a Dataframe using the Pandas library
+- [x] Analyze data
+
+You can read more about my analysis in my notebook (***analyse_moovjee_2024.ipynb***).
