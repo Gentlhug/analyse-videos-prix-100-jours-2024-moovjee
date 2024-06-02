@@ -1,4 +1,4 @@
-# Analysis of YouTube videos from the Moovjee "*100 jours 2024 prize*"
+# Analysis of YouTube videos from the Moovjee "*100 jours 2024*" prize
 
 **Objective:** The aim is to create a Top 15 of videos that have received the most likes.
 
